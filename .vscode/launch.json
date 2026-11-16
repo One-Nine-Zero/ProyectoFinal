@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.aerolinea.app.App",
+            "projectName": "SistemaAerolinea_ebe98407"
+        },
+        {
+            "type": "java",
+            "name": "Ejecutar SistemaAerolinea",
+            "request": "launch",
+            "mainClass": "com.aerolinea.app.App",
+            "projectName": "SistemaAerolinea",
+            "console": "integratedTerminal"
+        }
+    ]
+}
